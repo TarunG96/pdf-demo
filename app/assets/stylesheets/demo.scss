@@ -1,0 +1,31 @@
+// @import url('//db.onlinewebfonts.com/c/c5fc2b05949b051c07482453e8e0c1e6?family=Filson+Soft');
+@import url('//db.onlinewebfonts.com/c/bab15956435794e3d48309ddf0700b4c?family=Filson+Soft');
+
+// @import url('//db.onlinewebfonts.com/c/0104ee9101bbe54dae7b48fc729f4aed?family=Filson+Soft');
+
+@font-face {
+  font-family: 'light';
+  src: url('fonts/FilsonSoft-Light.otf');
+}
+
+@font-face {
+  font-family: 'thin';
+  src: url('/Users/apple/Library/Fonts/FilsonSoft-Thin.otf');
+}
+
+@font-face {
+  font-family: 'italic';
+  src: url('fonts/FilsonSoft-Italic.otf');
+}
+
+p{
+  font-family: 'Filson Soft';
+}
+
+h1{
+  font-family: 'light';
+}
+
+.abc{
+  font-family: 'italic';
+}
